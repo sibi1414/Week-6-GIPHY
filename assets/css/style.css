@@ -1,0 +1,25 @@
+body {
+	background-color: #DDDDDD;
+}
+
+.imageDiv {
+	display: inline-block;
+	margin: 10px 10px 10px 10px;
+}
+
+#character-input {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+#searchBarDiv {
+	margin-top: 10px;
+}
+
+.characterButton, .newCharacterButton {
+	margin: 2.5px 1% 2.5px 1%;
+}
+
+img {
+	cursor: pointer; cursor: hand;
+}
